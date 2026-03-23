@@ -1,1 +1,13 @@
-Run using MAMP → localhost/win
+PROJECT SETUP (Windows + MAMP)
+
+1. Install and open MAMP.
+
+2. Move the project folder into:
+   C:\MAMP\htdocs\win
+
+3. Start Apache and MySQL from MAMP.
+
+4. Open your browser and go to:
+   http://localhost/win
+
+The website should now run locally.
