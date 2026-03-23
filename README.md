@@ -1,50 +1,26 @@
-# Asim Project
-
-## Project Description
-
-This is a PHP website project developed using MAMP.
-
----
+# Asim's Repository — Project Setup Guide
 
 ## Requirements
 
-* MAMP or XAMPP
-* PHP 8+
-* Web Browser
+* Install MAMP (Windows or Mac)
 
----
+## Setup Instructions
 
-## Installation Steps
+1. Open MAMP and install it if not already installed.
 
-1. Download or clone the repository:
+2. Move the project folder **win** into:
+   C:\MAMP\htdocs\
 
-   ```
-   git clone https://github.com/AsimAlmaliki/Asim-s-Repository.git
-   ```
+3. Start **Apache** and **MySQL** from MAMP.
 
-2. Move the project folder into:
+4. Open your browser and go to:
+   http://localhost/win
 
-   ```
-   htdocs
-   ```
-
-3. Start MAMP server.
-
-4. Open browser and go to:
-
-   ```
-   http://localhost/AsimProject
-   ```
+The website should now run locally.
 
 ---
 
 ## Notes
 
-* GitHub Pages does not support PHP.
-* The project must run using a local server (MAMP).
-
----
-
-## Author
-
-Asim Almaliki
+* This project runs using PHP and requires a local server (MAMP).
+* If the page appears blank, make sure Apache is running in MAMP.
